@@ -27,7 +27,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whiteassassins&show_icons=true&locale=en&layout=compact" alt="whiteassassins" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=whiteassassins&show_icons=true&locale=en" alt="whiteassassins" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=whiteassassins&show_icons=true&locale=en&theme=dracula" alt="whiteassassins" /></p>
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whiteassassins&" alt="whiteassassins" /></p>
 
