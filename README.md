@@ -34,15 +34,19 @@ Through **AEWhite Devs**, I build web platforms, internal tools, CMS-based solut
 ## GitHub Snapshot
 
 <p align="center">
-  <img width="78%" src="https://ghstats.dev/api/card?username=WhiteAssassins&theme=midnight&hide_border=true&size=compact&hide=issues,week,trend,avg,active_day,repos,followers" alt="GitHub profile level and activity card" />
+  <img width="78%" src="https://ghstats.dev/api/card?username=WhiteAssassins" alt="GitHub stats card" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteAssassins&theme=github_dark" alt="Repositories per language" />
+  <img src="https://ghstats.dev/api/mini?username=WhiteAssassins" alt="GitHub mini badge" />
 </p>
 
 <p align="center">
-  <img width="78%" src="https://streak-stats.demolab.com?user=WhiteAssassins&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <img width="60%" src="https://ghstats.dev/api/langs?username=WhiteAssassins" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="78%" src="https://ghstats.dev/api/sparkline?username=WhiteAssassins&days=30&width=320&height=80" alt="Contribution sparkline" />
 </p>
 
 ## AEWhite Devs Ecosystem
