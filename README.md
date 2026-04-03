@@ -49,6 +49,10 @@ Through **AEWhite Devs**, I build web platforms, internal tools, CMS-based solut
   <img width="78%" src="https://ghstats.dev/api/sparkline?username=WhiteAssassins&days=30&width=320&height=80" alt="Contribution sparkline" />
 </p>
 
+<p align="center">
+  <img width="78%" src="https://streak-stats.demolab.com?user=WhiteAssassins&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
 ## AEWhite Devs Ecosystem
 
 - [AEWhite Devs](https://aewhitedevs.com/) - Main website, services, company direction, and product identity.
