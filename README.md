@@ -1,20 +1,26 @@
-# WhiteAssassins
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1324,100:2563EB&height=180&section=header&text=WhiteAssassins&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Infrastructure%20%7C%20Automation&descAlignY=60" alt="WhiteAssassins banner" />
+</p>
 
-Software developer focused on useful products, reliable infrastructure, and practical automation.
+<h3 align="center">Building useful software, reliable infrastructure, and practical digital products.</h3>
 
-I build websites, internal tools, CMS-based solutions, deployment environments, and self-hosted services designed to work well in production and stay maintainable over time.
+<p align="center">
+  <a href="https://github.com/WhiteAssassins">
+    <img src="https://img.shields.io/github/followers/WhiteAssassins?style=for-the-badge&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://aewhitedevs.com/">
+    <img src="https://img.shields.io/badge/AEWhite%20Devs-Website-0B1324?style=for-the-badge" alt="AEWhite Devs website" />
+  </a>
+  <a href="https://herramientas.aewhitedevs.com/">
+    <img src="https://img.shields.io/badge/Public%20Tools-Online-2563EB?style=for-the-badge" alt="Public tools" />
+  </a>
+</p>
 
 ## About Me
 
-I work at the intersection of development, infrastructure, and product execution.
+I work across software development, infrastructure, and product execution.
 
-Through **AEWhite Devs**, I create digital products with a strong focus on:
-
-- clarity
-- maintainability
-- performance
-- reliability
-- real-world usefulness
+Through **AEWhite Devs**, I build web platforms, internal tools, CMS-based solutions, self-hosted services, and automation systems designed to be useful in production and maintainable over time.
 
 ## What I Build
 
@@ -24,6 +30,17 @@ Through **AEWhite Devs**, I create digital products with a strong focus on:
 | Infrastructure | Self-hosted services, servers, monitoring, backups, and deployment workflows |
 | Automation | Internal tools, operational scripts, repetitive-task automation, and process improvement |
 | Product work | Public utilities, changelog platforms, and practical software for teams and businesses |
+
+## GitHub Snapshot
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteAssassins&theme=github_dark" alt="GitHub stats summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteAssassins&theme=github_dark" alt="Repositories per language" />
+</p>
+
+<p align="center">
+  <img width="78%" src="https://streak-stats.demolab.com?user=WhiteAssassins&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ## AEWhite Devs Ecosystem
 
