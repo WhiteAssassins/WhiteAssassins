@@ -33,9 +33,7 @@ Through **AEWhite Devs**, I build web platforms, internal tools, CMS-based solut
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img width="78%" src="https://ghstats.dev/api/card?username=WhiteAssassins" alt="GitHub stats card" />
-</p>
+
 
 <p align="center">
   <img src="https://ghstats.dev/api/mini?username=WhiteAssassins" alt="GitHub mini badge" />
