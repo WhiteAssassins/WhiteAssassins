@@ -67,17 +67,6 @@ Through **AEWhite Devs**, I build web platforms, internal tools, CMS-based solut
 - **AEWhite Devs Herramientas**: Collection of public utilities made for everyday practical use.
 - **AEWhite Devs Changelogs**: Release-history platform built to make software delivery transparent and easy to follow.
 
-## Core Stack
-
-**Backend and application development**  
-`PHP` `JavaScript` `Python` `Node.js` `CodeIgniter` `Kotlin` `Next.js`
-
-**Frontend and interface work**  
-`React` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `WordPress`
-
-**Infrastructure and operations**  
-`Docker` `Debian` `Linux` `Nginx` `Apache` `Cloudflare` `Grafana` `InfluxDB` `Git`
-
 
 ## Connect
 
