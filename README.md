@@ -78,19 +78,6 @@ Through **AEWhite Devs**, I build web platforms, internal tools, CMS-based solut
 **Infrastructure and operations**  
 `Docker` `Debian` `Linux` `Nginx` `Apache` `Cloudflare` `Grafana` `InfluxDB` `Git`
 
-## Current Focus
-
-- Building products that combine clean interfaces with dependable backend logic.
-- Expanding the AEWhite Devs ecosystem through tools, documentation, and productized services.
-- Creating software that is easier to maintain, deploy, and use every day.
-- Collaborating on projects where execution quality and reliability matter.
-
-## Working Style
-
-- Production-oriented thinking
-- Clean and maintainable implementation
-- Practical problem solving over unnecessary complexity
-- Strong interest in infrastructure, stability, and operational clarity
 
 ## Connect
 
