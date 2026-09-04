@@ -1,79 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1324,100:2563EB&height=180&section=header&text=WhiteAssassins&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Infrastructure%20%7C%20Automation&descAlignY=60" alt="WhiteAssassins banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1324,100:2563EB&height=170&section=header&text=WhiteAssassins&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Infrastructure%20%7C%20Automation&descAlignY=60" alt="WhiteAssassins banner" />
 </p>
 
-<h3 align="center">Building useful software, reliable infrastructure, and practical digital products.</h3>
+<h3 align="center">Software Development · Infrastructure · Automation</h3>
 
 <p align="center">
-  <a href="https://github.com/WhiteAssassins">
-    <img src="https://img.shields.io/github/followers/WhiteAssassins?style=for-the-badge&label=Followers" alt="GitHub followers" />
-  </a>
   <a href="https://aewhitedevs.com/">
-    <img src="https://img.shields.io/badge/AEWhite%20Devs-Website-0B1324?style=for-the-badge" alt="AEWhite Devs website" />
+    <img src="https://img.shields.io/badge/AEWhite%20Devs-Website-0B1324?style=for-the-badge" alt="AEWhite Devs" />
   </a>
   <a href="https://herramientas.aewhitedevs.com/">
-    <img src="https://img.shields.io/badge/Public%20Tools-Online-2563EB?style=for-the-badge" alt="Public tools" />
+    <img src="https://img.shields.io/badge/Public%20Tools-Online-2563EB?style=for-the-badge" alt="Public Tools" />
   </a>
 </p>
 
-## About Me
+## About
 
-I work across software development, infrastructure, and product execution.
+Developer and systems engineer focused on building reliable web applications, self-hosted infrastructure, internal tools, and automation.
 
-Through **AEWhite Devs**, I build web platforms, internal tools, CMS-based solutions, self-hosted services, and automation systems designed to be useful in production and maintainable over time.
+Founder of **AEWhite Devs**.
 
-## What I Build
+## Projects
 
-| Area | Focus |
-| --- | --- |
-| Web development | Websites, portals, dashboards, CMS solutions, and custom business platforms |
-| Infrastructure | Self-hosted services, servers, monitoring, backups, and deployment workflows |
-| Automation | Internal tools, operational scripts, repetitive-task automation, and process improvement |
-| Product work | Public utilities, changelog platforms, and practical software for teams and businesses |
+* **MyPyme Control** — Web, Android, and desktop business platform.
+* **AEWhite Devs Herramientas** — Public utilities for developers and technical users.
+* **AEWhite Devs Changelogs** — Release and product update tracking.
+* **AE-NetScope** — Self-hosted network inventory and IPAM platform.
 
-## GitHub Snapshot
-
-
-
-<p align="center">
-  <img src="https://ghstats.dev/api/mini?username=WhiteAssassins" alt="GitHub mini badge" />
-</p>
+## GitHub
 
 <p align="center">
   <img width="60%" src="https://ghstats.dev/api/langs?username=WhiteAssassins" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img width="78%" src="https://ghstats.dev/api/sparkline?username=WhiteAssassins&days=30&width=320&height=80" alt="Contribution sparkline" />
-</p>
+## Links
 
-<p align="center">
-  <img width="78%" src="https://streak-stats.demolab.com?user=WhiteAssassins&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
+[aewhitedevs.com](https://aewhitedevs.com/) ·
+[Tools](https://herramientas.aewhitedevs.com/) ·
+[Changelogs](https://changelogs.aewhitedevs.com/) ·
+[Status](https://status.aewhitedevs.com/) ·
+[X](https://x.com/whiteassassinsr)
 
-## AEWhite Devs Ecosystem
-
-- [AEWhite Devs](https://aewhitedevs.com/) - Main website, services, company direction, and product identity.
-- [Herramientas AEWhite Devs](https://herramientas.aewhitedevs.com/) - Public utility hub with practical tools for developers and technical users.
-- [AEWhite Devs Changelogs](https://changelogs.aewhitedevs.com/) - Public release notes and product update tracking.
-- [AEWhite Devs Status](https://status.aewhitedevs.com/) - Service health and uptime visibility.
-- [AEWhite Devs Blog](https://blog.aewhitedevs.com/) - Content, articles, and ecosystem communication.
-
-## Highlighted Projects
-
-- **MyPyme Control (Web)**: Business platform with a redesigned interface, responsive layout, dashboards, and a stronger product experience.
-- **MyPyme Control (Android)**: Android app rebuilt with Jetpack Compose and Material 3, including native integrations and in-app updates.
-- **MyPyme Control (Desktop)**: Desktop application built on Tauri 2 with tray support, persistent preferences, and update management.
-- **AEWhite Devs Herramientas**: Collection of public utilities made for everyday practical use.
-- **AEWhite Devs Changelogs**: Release-history platform built to make software delivery transparent and easy to follow.
-
-
-## Connect
-
-- Website: [aewhitedevs.com](https://aewhitedevs.com/)
-- Tools: [herramientas.aewhitedevs.com](https://herramientas.aewhitedevs.com/)
-- Changelogs: [changelogs.aewhitedevs.com](https://changelogs.aewhitedevs.com/)
-- GitHub: [github.com/WhiteAssassins](https://github.com/WhiteAssassins)
-- X: [@whiteassassinsr](https://x.com/whiteassassinsr)
-
-Open to collaborations in product development, web platforms, infrastructure, internal tools, and automation.
