@@ -12,17 +12,17 @@
 
 <img src="./assets/divisor.svg" width="100%" alt="">
 
-### 🧰 Con qué trabajo
+### Con qué trabajo
 
 <img src="./assets/stack.svg" width="100%" alt="PHP, Python, JavaScript, TypeScript, Kotlin, Swift, Java, C++, C#, C, SQL, Shell, PowerShell, Jetpack Compose, SwiftUI, Kotlin Multiplatform, Ktor, Retrofit, Laravel, Laravel Horizon, PostgreSQL, PostGIS, Redis, MinIO, OSRM, HTML, CSS, SCSS, Tailwind CSS, Blade, Astro, Docker, Caddy, Linux, Debian, TrueNAS, MikroTik, CI/CD">
 
-### 🚀 Proyectos públicos
+### Proyectos públicos
 
 <p>
   <a href="https://github.com/WhiteAssassins/AE-NetScope"><img src="./assets/proyecto_AE-NetScope.svg" width="49%" alt="AE-NetScope"></a> <a href="https://github.com/WhiteAssassins/Intersect_CMS"><img src="./assets/proyecto_Intersect_CMS.svg" width="49%" alt="Intersect_CMS"></a>
 </p>
 
-### 🎩 AEWhite Devs
+### AEWhite Devs
 
 <a href="https://aewhitedevs.com"><img src="./assets/aewhite.svg" width="100%" alt="AEWhite Devs: desarrollo, infraestructura y automatización"></a>
 
