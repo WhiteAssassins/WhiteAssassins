@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 40" width="1280" height="40"><style>
+.visor{animation:pulse 2.8s ease-in-out infinite}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+</style><filter id="dg" x="-30%" y="-300%" width="160%" height="700%"><feGaussianBlur stdDeviation="5"/></filter><polygon class="visor" points="540,24.0 740,12.0 741,22.0 541,34.0" fill="#6366F1" filter="url(#dg)"/><polygon points="540,24.0 740,12.0 741,22.0 541,34.0" fill="#6366F1"/></svg>
